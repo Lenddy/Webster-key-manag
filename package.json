@@ -1,0 +1,26 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "A description of your project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "latest",
+    "mongoose": "latest",
+    "graphql": "latest",
+    "@graphql-tools/merge": "latest",
+    "apollo-server-express": "latest",
+    "dotenv": "latest",
+    "graphql-subscriptions": "latest",
+    "http": "latest",
+    "moment": "latest",
+    "socket.io": "latest",
+    "subscriptions-transport-ws": "latest",
+    "uuid": "latest"
+  }
+}
