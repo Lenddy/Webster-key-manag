@@ -1,0 +1,25 @@
+to add 
+
+
+
+make the table 
+
+it will be a one to many table 
+
+there will be a management
+
+management :
+
+name :
+manageItems{
+    address
+    key codes :
+    on letter one word  with a space in the middle that is the  
+
+        example : Q4 B3 B2 Q4 K3
+
+
+    key way 
+
+}    
+
